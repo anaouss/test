@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9860-A34C
+
+ Directory of C:\Users\anass\Documents\Jenkins tutorial
+
+10/12/2021  02:50 PM    <DIR>          .
+10/12/2021  02:50 PM    <DIR>          ..
+10/12/2021  01:20 AM               901 Hello.class
+10/12/2021  01:19 AM               163 Hello.java
+10/09/2021  11:49 PM         3,504,100 jenkins-cli.jar
+10/09/2021  12:29 AM        78,434,304 jenkins.msi
+10/12/2021  02:50 PM                 0 test1.txt
+               5 File(s)     81,939,468 bytes
+               2 Dir(s)  85,605,462,016 bytes free
